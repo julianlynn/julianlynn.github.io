@@ -1,4 +1,3 @@
-<!DOCTYPE.html>
 <html>
 <body>
 <h1>Hello World</h1>
@@ -12,15 +11,12 @@ A timeline of important milestones in Lehigh University's football teams seasons
 
 
 
-Here's an infographic I made using Canva focusing on the diversity at Lehigh University
-https://julianlynn.github.io/lehighdiversity.html
+[Here's an infographic I made using Canva focusing on the diversity at Lehigh University](https://julianlynn.github.io/lehighdiversity.html)
 
 
 
-This is an interactive chart using Tableau that focuses on the sack leaders in the NFL starting from 1982 to last years season
-https://julianlynn.github.io/sackleaders.html
+[This is an interactive chart using Tableau that focuses on the sack leaders in the NFL starting from 1982 to last years season](https://julianlynn.github.io/sackleaders.html)
 
 
 
-A map that I made of several colleges in the Lehigh Valley using Google Fusion Tables
-https://julianlynn.github.io/map.html
+[A map that I made of several colleges in the Lehigh Valley using Google Fusion Tables](https://julianlynn.github.io/map.html)
