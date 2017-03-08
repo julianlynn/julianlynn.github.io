@@ -15,7 +15,7 @@ A timeline of important milestones in Lehigh University's football teams seasons
 
 
 
-[This is an interactive chart using Tableau that focuses on the sack leaders in the NFL starting from 1982 to last years season]https://julianlynn.github.io/sackleaders.html)
+[This is an interactive chart using Tableau that focuses on the sack leaders in the NFL starting from 1982 to last years season](https://julianlynn.github.io/sackleaders.html)
 
 
 
