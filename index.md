@@ -11,7 +11,7 @@ A timeline of important milestones in Lehigh University's football teams seasons
 
 
 
-[Here's an infographic I made using Canva focusing on the diversity at Lehigh University(https://julianlynn.github.io/lehighdiversity.html)
+[Here's an infographic I made using Canva focusing on the diversity at Lehigh University](https://julianlynn.github.io/lehighdiversity.html)
 
 
 
