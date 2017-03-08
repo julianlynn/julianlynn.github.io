@@ -2,8 +2,10 @@
 <body>
 Here's a comic I created using pixton.com
 <iframe src="//www.pixton.com/embed/p0rdc9lg" frameborder="0" width="100%" height="384" allowfullscreen></iframe>  
-</body>
-</html>
+
+
+
+
 A timeline of important milestones in Lehigh University's football teams seasons that led to their Patriot League Championship
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BCU8P9pg2aeyO6OGvVkBiXk7HmsSsZEsjGy2nlwDRcI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
