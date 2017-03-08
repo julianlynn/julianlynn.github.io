@@ -10,18 +10,19 @@ Scroll using arrows on side of the image
 
 <h2> Diversity Infographic
 <BR>
-[Here's an infographic I made using Canva focusing on the diversity at Lehigh University]
-(https://julianlynn.github.io/lehighdiversity.html)
+
+[Here's an infographic I made using Canva focusing on the diversity at Lehigh University](https://julianlynn.github.io/lehighdiversity.html)
 
 
 
 <h2> Interactive Chart
 <BR>
-[This is an interactive chart using Tableau that focuses on the sack leaders in the NFL starting from 1982 to last years season(https://julianlynn.github.io/sackleaders.html)
+
+[This is an interactive chart using Tableau that focuses on the sack leaders in the NFL starting from 1982 to last years season](https://julianlynn.github.io/sackleaders.html)
 
 
 
 <h2> Map Chart
 <BR>
-[A map that I made of several colleges in the Lehigh Valley using Google Fusion Tables]
-(https://julianlynn.github.io/map.html)
+
+[A map that I made of several colleges in the Lehigh Valley using Google Fusion Tables](https://julianlynn.github.io/map.html)
