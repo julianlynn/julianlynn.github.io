@@ -1,5 +1,3 @@
-<html>
-<body>
 Here's a comic I created using pixton.com
 <iframe src="//www.pixton.com/embed/p0rdc9lg" frameborder="0" width="100%" height="384" allowfullscreen></iframe>  
 A timeline of important milestones in Lehigh University's football teams seasons that led to their Patriot League Championship
